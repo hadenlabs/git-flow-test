@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://github.com/hadenlabs/base-template",
+  "baseUrl": "https://github.com/hadenlabs/git-flow-test",
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"

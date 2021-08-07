@@ -5,7 +5,7 @@
 #
 
 # Name of this project
-name: base-template
+name: git-flow-test
 
 email:
   support: support@hadenlabs.com
@@ -21,16 +21,16 @@ confluence:
 license: 'LGPL-3.0'
 
 # Canonical GitHub repo
-github_repo: hadenlabs/base-template
+github_repo: hadenlabs/git-flow-test
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/release/hadenlabs/git-flow-test
+    url: https://github.com/hadenlabs/git-flow-test/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code
-    url: https://github.com/hadenlabs/base-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/hadenlabs/git-flow-test/lint-code
+    url: https://github.com/hadenlabs/git-flow-test/actions?workflow=lint-code
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -43,10 +43,10 @@ badges:
 
 description: |-
 
-  base-template for project
+  git-flow-test for project
 
   ### Replace name project to New Project
 
   ```bash
-    agr 'base-template' 'new-project'
+    agr 'git-flow-test' 'new-project'
   ```
